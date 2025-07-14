@@ -1,5 +1,6 @@
 # NetflixEDA
-Some EDA for random Netflix DataSet\\
+Some EDA for random Netflix DataSet 
+
 My part in this project included:
 1. Merging external datasets
 * Using FuzzuWuzzy
